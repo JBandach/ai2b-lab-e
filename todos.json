@@ -11,8 +11,15 @@
       "id": 2,
       "title": "Hello Again World",
       "deadline": "2000-01-01",
-      "completed": false,
-      "archived": false
+      "completed": true,
+      "archived": true
+    },
+    {
+      "title": "zjesc zupe",
+      "deadline": "2023-12-10",
+      "completed": true,
+      "archived": false,
+      "id": 3
     }
   ]
 }
